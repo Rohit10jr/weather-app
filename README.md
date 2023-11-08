@@ -2,7 +2,6 @@
 
 ![Django](https://img.shields.io/badge/Django-3.x-brightgreen)
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
-![License](https://img.shields.io/badge/License-MIT-red)
 
 The Django Weather App is a web application that provides real-time weather information for different locations. It uses Django to create a user-friendly interface to access weather data from a third-party API.
 
